@@ -1,3 +1,22 @@
+Deployed App URL - https://covid-19-tracker-a0320.web.app/
+
+## Firebase Deployment Steps:
+npm i -g firebase tools
+
+firebase login
+
+firebase init
+
+select hosting and set public folder as build
+
+npm run build
+
+firebase deploy
+
+
+## Available Scripts
+Firebase Hosting steps
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
